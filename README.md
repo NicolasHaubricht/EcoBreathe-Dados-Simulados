@@ -19,3 +19,10 @@ A simulação foi implementada para demonstrar o funcionamento do sistema e sua 
 ## Conclusão
 
 A utilização de dados simulados e fictícios possibilita a execução e a apresentação do projeto **EcoBreathe** sem comprometer sua funcionalidade ou conceito principal. Essa abordagem torna o sistema acessível e prático, ao mesmo tempo em que evidencia sua relevância para monitorar a qualidade do ar em diferentes contextos.
+
+## 🌱 Outros Repositórios do Projeto EcoBreathe
+- Repositório WebSite: <a href='https://github.com/NicolasHaubricht/EcoBreathe-Web-Site'>Link</a>
+- Repositório Dashboard: <a href='https://github.com/NicolasHaubricht/EcoBreathe-Dashboard'>Link</a>
+- Repositório IoT: <a href='https://github.com/NicolasHaubricht/EcoBreathe-IoT'>Link</a>
+
+### Desenvolvido por Nicolas Haubricht Hainfellner  
