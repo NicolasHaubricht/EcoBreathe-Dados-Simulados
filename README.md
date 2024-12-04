@@ -1,4 +1,4 @@
-# EcoBreathe - Simulação de Dados
+# Projeto EcoBreathe | Simulação de Dados
 
 ## Introdução
 
